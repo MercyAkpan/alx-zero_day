@@ -6,6 +6,7 @@ Create a new directory called 0x03-git in your alx-zero_day repo.
 Make sure you include a not empty README.md in your directory:
 
 at the root of your repository alx-zero_day
+
 AND in the directory 0x03-git
 Repo:
 
@@ -13,10 +14,14 @@ GitHub repository: alx-zero_day
 
   2
 ## QUESTION:
-For the moment we have an empty project directory containing only a README.md. It’s time to code!
+For the moment we have an empty project directory containing only a README.md. 
+
+It’s time to code!
 
 Create these directories at the root of your project: bash, c, js
+
 Create these empty files:
+
 c/c_is_fun.c
 js/main.js
 js/index.js
